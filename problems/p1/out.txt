@@ -1,0 +1,2 @@
+CSP Variables:  Variables([Variable('WA',['red']), Variable('Q',['red']), Variable('T',['red', 'green', 'blue']), Variable('V',['red']), Variable('SA',['green']), Variable('NT',['blue']), Variable('NSW',['red', 'green', 'blue'])])
+False
