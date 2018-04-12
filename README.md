@@ -1,4 +1,4 @@
-# CSE 150 Introduction to Artificial Intelligence: Search and Reasoning Assignment 3
+# CSE 150: Introduction to Artificial Intelligence: Search and Reasoning Assignment 3
 
 Project Overview: This assignment focuses on Constraint Satisfaction Problems (CSP). The CSP focused on in this assignment is X-Sudoku, which in addition to the usual Sudoku constraints, the two diagonals should also have unique numbers. I was tasked with solving 6 problems: 
 
