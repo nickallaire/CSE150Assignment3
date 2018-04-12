@@ -15,3 +15,5 @@ Project Overview: This assignment focuses on Constraint Satisfaction Problems (C
 6. Complete a faster backtracking search algorithm by augmenting the basic backtracking algorithm with the MAC inference and the variable and value ordering heuristics.
 
 My code can be found under the solutions directory labeled p1-p6.
+
+A complete description of the assignment can be found in Assignment3_150_fall16.pdf
